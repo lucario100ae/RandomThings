@@ -1,0 +1,24 @@
+a = input("")
+b = a.split("+")
+if len(b)>=2:
+    soma = 0
+    for i in b:
+        i = int(i)
+        soma += i
+    print(soma)
+else:
+    b = a.split("*")
+if len(b)>=2:
+    mult = int(b[0]) * int(b[1])
+    print(mult)
+else:
+    b = a.split("-")
+if len(b)>=2:
+    sub = int(b[0]) - int(b[1])
+    print(sub)
+else:
+       b = a.split("/")
+if len(b)>=2:
+    div = int(b[0]) / int(b[1])
+    print(div)
+       
