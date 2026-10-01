@@ -1,6 +1,6 @@
 # Calculators
 
-**Making a calculator that works with string to pratic.**
+**Making a calculator that works with strings for practice**
 -
 Descriptions:
-- calculator1.0: only can make simple operates (+,-,*,/) with 2 numbers.
+- calculator1.0: can only perform simple operations (+, -, *, /) with 2 numbers.
