@@ -1,3 +1,5 @@
+# I think u know how to use a calculator, but just to be sure
+# put a number a signal and another number ONLY
 a = input("")
 b = a.split("+")
 if len(b)>=2:
